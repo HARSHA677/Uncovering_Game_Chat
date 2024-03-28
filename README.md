@@ -54,3 +54,18 @@ Timestamp: This field represents the date and time when the message was sent. It
 for analyzing message frequency, patterns, and trends over time. By grouping messages by
 time intervals (e.g. daily, weekly, monthly), analysts can identify peak activity times and patterns
 in the conversation, as well as track the evolution of topics and themes over time.
+
+# Conclusion
+
+Based on the topic modeling and clustering analysis, it seems that the conversations in the
+Apex Legends game chat server are diverse and cover a range of topics. The topics identified
+include frustration and negative experiences with the game, discussing gameplay mechanics
+and strategies, having fun while playing the game, discussing the game in general, and
+expressing emotions and reactions while playing the game.
+Additionally, the clustering analysis revealed three distinct clusters, with one related to casual
+conversation or socializing, one related to negative sentiment or feedback related to the game,
+and one related to positive sentiment or feedback related to the game.
+Overall, the analysis suggests that players in the Apex Legends game chat server engage in a
+variety of conversations and discussions related to the game, with both positive and negative
+sentiment expressed. These insights could be useful for game developers to understand player
+experiences and improve the game accordingly.
